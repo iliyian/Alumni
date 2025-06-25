@@ -1,0 +1,19 @@
+# ninja log v6
+16	2773	7724660956876803	CMakeFiles/Alumni.dir/Node.cpp.obj.ddi	40a33c981fd1cdfa
+24	2800	7724660956957338	CMakeFiles/Alumni.dir/Alumni.cpp.obj.ddi	d908da745c8cfc10
+45	2826	7724660957160034	CMakeFiles/Alumni.dir/Menu.cpp.obj.ddi	fecf14f79eb73c14
+34	2826	7724660957057282	CMakeFiles/Alumni.dir/AlumniList.cpp.obj.ddi	f4281c6a61705039
+4	2827	7724660956756167	CMakeFiles/Alumni.dir/main.cpp.obj.ddi	705adc8eaa844ec9
+2827	2915	7724660985831394	CMakeFiles/Alumni.dir/CXX.dd	541b0707d3077386
+2827	2915	7724660985831394	C:/Users/iliyian/OneDrive/Desktop/Alumni/cmake-build-debug/CMakeFiles/Alumni.dir/CXXModules.json	541b0707d3077386
+2827	2915	7724660985831394	CMakeFiles/Alumni.dir/main.cpp.obj.modmap	541b0707d3077386
+2827	2915	7724660985831394	CMakeFiles/Alumni.dir/Node.cpp.obj.modmap	541b0707d3077386
+2827	2915	7724660985831394	CMakeFiles/Alumni.dir/Alumni.cpp.obj.modmap	541b0707d3077386
+2827	2915	7724660985831394	CMakeFiles/Alumni.dir/AlumniList.cpp.obj.modmap	541b0707d3077386
+2827	2915	7724660985831394	CMakeFiles/Alumni.dir/Menu.cpp.obj.modmap	541b0707d3077386
+2976	3664	7724660986479553	CMakeFiles/Alumni.dir/Node.cpp.obj	1e1a670f80ce81a3
+3074	3774	7724660987459165	CMakeFiles/Alumni.dir/Alumni.cpp.obj	f9bdcf391e93c5c4
+2917	4153	7724660985883196	CMakeFiles/Alumni.dir/main.cpp.obj	5ecd9bdb78aa2578
+3267	4486	7724660989387834	CMakeFiles/Alumni.dir/Menu.cpp.obj	76bc70a99713e859
+3161	4676	7724660988327721	CMakeFiles/Alumni.dir/AlumniList.cpp.obj	f3c0e2e5375b2a72
+4677	4985	7724661003481555	Alumni.exe	11257385838330e2
